@@ -144,14 +144,14 @@ img {
 }
 @media (min-width: 768px) {
   .main__card:nth-child(3) {
-    grid-row: 2/3;
-    grid-column: 3/-1;
+    grid-row: 3/-1;
+    grid-column: 2/4;
   }
 }
 @media (min-width: 1100px) {
   .main__card:nth-child(3) {
-    grid-row: 2/4;
-    grid-column: 3/-1;
+    grid-row: 3/-1;
+    grid-column: 2/3;
   }
 }
 .main__card:nth-child(4) {
@@ -159,14 +159,14 @@ img {
 }
 @media (min-width: 768px) {
   .main__card:nth-child(4) {
-    grid-row: 3/-1;
-    grid-column: 2/4;
+    grid-row: 2/3;
+    grid-column: 3/-1;
   }
 }
 @media (min-width: 1100px) {
   .main__card:nth-child(4) {
-    grid-row: 3/-1;
-    grid-column: 2/3;
+    grid-row: 2/4;
+    grid-column: 3/-1;
   }
 }
 .main__header > h2 {

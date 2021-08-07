@@ -60,24 +60,24 @@
         &:nth-child(3) {
             border-block-start: .4rem solid map-get($clr, 'lt', 'orange-100');
             @include less-query($device: 'tablet', $size: 'sm') {
-                grid-row: 2 / 3;
-                grid-column: 3 / -1;
-            }
-            @include less-query($device: 'tablet', $size: 'lg') {
-                grid-row: 2 / 4;
-                grid-column: 3 / -1;
-            }
-        }
-
-        &:nth-child(4) {
-            border-block-start: .4rem solid map-get($clr, 'lt', 'blue-100');
-            @include less-query($device: 'tablet', $size: 'sm') {
                 grid-row: 3 / -1;
                 grid-column: 2 / 4;
             }
             @include less-query($device: 'tablet', $size: 'lg') {
                 grid-row: 3 / -1;
                 grid-column: 2 / 3;
+            }
+        }
+
+        &:nth-child(4) {
+            border-block-start: .4rem solid map-get($clr, 'lt', 'blue-100');
+            @include less-query($device: 'tablet', $size: 'sm') {
+                grid-row: 2 / 3;
+                grid-column: 3 / -1;
+            }
+            @include less-query($device: 'tablet', $size: 'lg') {
+                grid-row: 2 / 4;
+                grid-column: 3 / -1;
             }
         }
     }
