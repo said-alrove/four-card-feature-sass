@@ -17,11 +17,11 @@
             }
     
             &:nth-child(3) {
-                &:hover { transform: translateX($_translate); }
+                &:hover { transform: translateY($_translate); }
             }
     
             &:nth-child(4) {
-                &:hover { transform: translateY($_translate); }
+                &:hover { transform: translateX($_translate); }
             }
         }
     }
