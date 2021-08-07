@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature solution
 
-This is a solution to the [Four card feature](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-V_W91T3Q5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/fourcard-feature-with-a-cool-animation-sasssmacss-xYLyDShvs). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Screenshot
 
@@ -8,8 +8,8 @@ This is a solution to the [Four card feature](https://www.frontendmentor.io/chal
 
 ## Links
 
-- [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-using-flexbox-and-position-A_OgSM9LR)
-- [Github Live](https://said-alrove.github.io/profile-card-component/)
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/fourcard-feature-with-a-cool-animation-sasssmacss-xYLyDShvs)
+- [Github Live](https://said-alrove.github.io/four-card-feature-sass/)
 
 ## Author
 
