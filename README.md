@@ -11,7 +11,7 @@ This is a solution to the [Four card feature](https://www.frontendmentor.io/chal
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/fourcard-feature-with-a-cool-animation-sasssmacss-xYLyDShvs)
-- [Netlify](https://fcfs-132821.netlify.app/)
+- [Netlify](https://fcfs-1feb8d.netlify.app/)
 
 ## Author
 
