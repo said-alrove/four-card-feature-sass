@@ -2,6 +2,8 @@
 
 This is a solution to the [Four card feature](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/fourcard-feature-with-a-cool-animation-sasssmacss-xYLyDShvs). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+> **Note:** in order to avoid large names, the URL of this project is an abbreviation of the name of this repository (four-card-feature-sass -> fcfs) with its unique ID (for less problems with names already taken).
+
 ## Screenshot
 
 ![](design/screenshot.png)
@@ -9,7 +11,7 @@ This is a solution to the [Four card feature](https://www.frontendmentor.io/chal
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/solutions/fourcard-feature-with-a-cool-animation-sasssmacss-xYLyDShvs)
-- [Github Live](https://said-alrove.github.io/four-card-feature-sass/)
+- [Netlify](https://fcfs-132821.netlify.app/)
 
 ## Author
 
